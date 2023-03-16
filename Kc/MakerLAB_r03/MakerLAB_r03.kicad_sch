@@ -954,19 +954,19 @@
       (reference "C25") (unit 1) (value "220uF") (footprint "Capacitor_THT:CP_Radial_D10.0mm_P5.00mm")
     )
     (path "/fab53e88-89c0-40b1-9c44-f0dadc28ccb9/7731cf6c-001b-4f87-98cf-dccead1467da"
-      (reference "D1") (unit 1) (value "Ponte 1,5A") (footprint "Diode_THT:Diode_Bridge_Round_D8.9mm")
+      (reference "D1") (unit 1) (value "D_Bridge_+AA-") (footprint "Diode_THT:Diode_Bridge_Vishay_KBL")
     )
     (path "/fab53e88-89c0-40b1-9c44-f0dadc28ccb9/d7491b5e-868a-44d8-8b64-4a39fccedeeb"
       (reference "D2") (unit 1) (value "VarOut") (footprint "LED_THT:LED_D5.0mm")
     )
     (path "/fab53e88-89c0-40b1-9c44-f0dadc28ccb9/136f390e-3e7c-4dd0-84d9-2877d0057db3"
-      (reference "D3") (unit 1) (value "D") (footprint "")
+      (reference "D3") (unit 1) (value "1n4001") (footprint "Diode_THT:D_A-405_P10.16mm_Horizontal")
     )
     (path "/fab53e88-89c0-40b1-9c44-f0dadc28ccb9/fec7b34a-3d17-49f6-b81c-2424bc10d4c3"
-      (reference "D4") (unit 1) (value "1N400x") (footprint "")
+      (reference "D4") (unit 1) (value "1N400x") (footprint "Diode_THT:D_A-405_P10.16mm_Horizontal")
     )
     (path "/fab53e88-89c0-40b1-9c44-f0dadc28ccb9/af8d4770-7935-44ea-a5ef-f24385a7cbee"
-      (reference "D5") (unit 1) (value "D") (footprint "")
+      (reference "D5") (unit 1) (value "1n4001") (footprint "Diode_THT:D_A-405_P10.16mm_Horizontal")
     )
     (path "/3fdafdb4-8fb2-4faf-beb8-83b0478cdff5/ad4a3c25-9bc4-4b63-a0f0-7d308a076c49"
       (reference "D6") (unit 1) (value "LED_ALT") (footprint "LED_THT:LED_D5.0mm")
@@ -1011,7 +1011,7 @@
       (reference "D19") (unit 1) (value "LED") (footprint "")
     )
     (path "/fab53e88-89c0-40b1-9c44-f0dadc28ccb9/4d8e6490-cb02-4a41-b859-6ea86ec1a179"
-      (reference "D20") (unit 1) (value "1N400x") (footprint "")
+      (reference "D20") (unit 1) (value "1N400x") (footprint "Diode_THT:D_A-405_P10.16mm_Horizontal")
     )
     (path "/fab53e88-89c0-40b1-9c44-f0dadc28ccb9/cd5aeaa5-bc88-402d-9ad2-21184d4c06a0"
       (reference "D21") (unit 1) (value "+5V") (footprint "LED_THT:LED_D5.0mm")
@@ -1027,6 +1027,12 @@
     )
     (path "/3fdafdb4-8fb2-4faf-beb8-83b0478cdff5/d3535d13-cc56-4203-bc1a-66c088a21f7d"
       (reference "H3") (unit 1) (value "MountingHole") (footprint "MountingHole:MountingHole_3.2mm_M3")
+    )
+    (path "/fab53e88-89c0-40b1-9c44-f0dadc28ccb9/14ffdc75-9d3c-49c1-ac7d-d9151c9aad0b"
+      (reference "HS1") (unit 1) (value "Heatsink") (footprint "Heatsink2:Heatsink_28x25_Horiz")
+    )
+    (path "/fab53e88-89c0-40b1-9c44-f0dadc28ccb9/307cf919-954e-415c-8a61-b3f583933169"
+      (reference "HS2") (unit 1) (value "Heatsink") (footprint "Heatsink2:Heatsink_28x25_Horiz")
     )
     (path "/248009d1-f2be-4cb2-83d3-96998f7e00ec"
       (reference "J1") (unit 1) (value "Conn_01x05") (footprint "")
@@ -1134,13 +1140,13 @@
       (reference "Q4") (unit 1) (value "2N3904") (footprint "Package_TO_SOT_THT:TO-92_Inline")
     )
     (path "/fab53e88-89c0-40b1-9c44-f0dadc28ccb9/9ac08224-337e-495c-8b6b-671ee1a1ae44"
-      (reference "Q5") (unit 1) (value "2N3904") (footprint "Package_TO_SOT_THT:TO-92_Inline")
+      (reference "Q5") (unit 1) (value "BC237") (footprint "Package_TO_SOT_THT:TO-92_Inline")
     )
     (path "/fab53e88-89c0-40b1-9c44-f0dadc28ccb9/6ff181c9-b25a-46e0-b627-21bc1b1eacea"
-      (reference "R1") (unit 1) (value "R") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
+      (reference "R1") (unit 1) (value "3,3k") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
     )
     (path "/fab53e88-89c0-40b1-9c44-f0dadc28ccb9/c6701216-386f-41a8-96bc-87579f82c3fc"
-      (reference "R2") (unit 1) (value "R") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
+      (reference "R2") (unit 1) (value "240") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
     )
     (path "/3fdafdb4-8fb2-4faf-beb8-83b0478cdff5/f64ce6cd-013a-496d-afc7-e16f5b2ef7b9"
       (reference "R3") (unit 1) (value "330") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
@@ -1200,7 +1206,7 @@
       (reference "R21") (unit 1) (value "330") (footprint "")
     )
     (path "/fab53e88-89c0-40b1-9c44-f0dadc28ccb9/f84baff8-e137-4c6d-8fc4-844d6c8cd016"
-      (reference "R22") (unit 1) (value "R") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
+      (reference "R22") (unit 1) (value "330k") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
     )
     (path "/fab53e88-89c0-40b1-9c44-f0dadc28ccb9/1c993ac2-b3a8-4e24-9a35-74ae7fafe9a3"
       (reference "R23") (unit 1) (value "R") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
@@ -1214,11 +1220,8 @@
     (path "/8d96e817-211c-41cf-9613-3e46384349b0/bcac138f-b1ff-4d36-8f2a-876a9dbd4f29"
       (reference "RN2") (unit 1) (value "10K") (footprint "Package_DIP:DIP-16_W7.62mm_Socket_LongPads")
     )
-    (path "/fab53e88-89c0-40b1-9c44-f0dadc28ccb9/47e6e50e-523e-4c96-8adb-f1f5e06b7698"
-      (reference "RV1") (unit 1) (value "R_Potentiometer") (footprint "")
-    )
     (path "/fab53e88-89c0-40b1-9c44-f0dadc28ccb9/00cb3f17-9bd5-46b6-84de-5ab43861e012"
-      (reference "RV2") (unit 1) (value "R_Potentiometer") (footprint "")
+      (reference "RV2") (unit 1) (value "5K") (footprint "Potentiometer_THT:Potentiometer_Omeg_PC16BU_Vertical")
     )
     (path "/62ab733d-ee67-4f7c-8a1e-1b8f9ec01131/92c2f91e-e6c4-4358-980f-2d33c1ecb36e"
       (reference "RV3") (unit 1) (value "220K") (footprint "Potentiometer_THT:Potentiometer_Bourns_3266W_Vertical")
@@ -1301,11 +1304,14 @@
     (path "/fab53e88-89c0-40b1-9c44-f0dadc28ccb9/9de110b7-9253-49b6-969d-8ddcf44c7fb9"
       (reference "TP19") (unit 1) (value "3.3VA-") (footprint "TestPoint:TestPoint_Loop_D3.80mm_Drill2.8mm")
     )
+    (path "/1c7b6ba1-9bc1-4836-88a5-b185a760b165/16d8b0b2-d6ea-4680-9d81-3ff5513967ac"
+      (reference "TP20") (unit 1) (value "Potenziometer") (footprint "MountingHole:MountingHole_6.5mm_Pad_Via")
+    )
     (path "/fab53e88-89c0-40b1-9c44-f0dadc28ccb9/c5a00fd2-4cd0-429e-9a6d-bd151e0d6d4f"
-      (reference "U1") (unit 1) (value "LM317_TO-220") (footprint "Package_TO_SOT_THT:TO-220-3_Vertical")
+      (reference "U1") (unit 1) (value "LM317_TO-220") (footprint "Package_TO_SOT_THT:TO-220-3_Horizontal_TabDown")
     )
     (path "/fab53e88-89c0-40b1-9c44-f0dadc28ccb9/8315f68a-7a5e-46a0-8926-aa26d1c6ab16"
-      (reference "U2") (unit 1) (value "LM7805_TO220") (footprint "Package_TO_SOT_THT:TO-220-3_Vertical")
+      (reference "U2") (unit 1) (value "LM7805_TO220") (footprint "Package_TO_SOT_THT:TO-220-3_Horizontal_TabDown")
     )
     (path "/3fdafdb4-8fb2-4faf-beb8-83b0478cdff5/f602b205-78f2-4bc9-9cc7-d289bd3346a0"
       (reference "U3") (unit 1) (value "DM9368") (footprint "Package_DIP:DIP-16_W7.62mm_LongPads")
@@ -1375,6 +1381,9 @@
     )
     (path "/7b083e6b-8037-4945-a6a7-d033f55692d8/3f89e10b-086b-45d5-aa68-7b1b48a363c9"
       (reference "Uni-A4") (unit 1) (value "Jumper_3_Open") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x03_P2.54mm_Vertical")
+    )
+    (path "/fab53e88-89c0-40b1-9c44-f0dadc28ccb9/3d1b1ba1-573d-4c6b-9669-6f27cef5d277"
+      (reference "Vmet1") (unit 1) (value "3,5_Digit_Voltmeter_3Wire") (footprint "VoltmeterModule:3,5 Digit 0,28'' Voltmeter")
     )
   )
 )
