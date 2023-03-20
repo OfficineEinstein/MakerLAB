@@ -963,7 +963,7 @@
       (reference "D3") (unit 1) (value "1n4001") (footprint "Diode_THT:D_A-405_P10.16mm_Horizontal")
     )
     (path "/fab53e88-89c0-40b1-9c44-f0dadc28ccb9/fec7b34a-3d17-49f6-b81c-2424bc10d4c3"
-      (reference "D4") (unit 1) (value "1N400x") (footprint "Diode_THT:D_A-405_P10.16mm_Horizontal")
+      (reference "D4") (unit 1) (value "1N4001") (footprint "Diode_THT:D_A-405_P10.16mm_Horizontal")
     )
     (path "/fab53e88-89c0-40b1-9c44-f0dadc28ccb9/af8d4770-7935-44ea-a5ef-f24385a7cbee"
       (reference "D5") (unit 1) (value "1n4001") (footprint "Diode_THT:D_A-405_P10.16mm_Horizontal")
@@ -1011,13 +1011,16 @@
       (reference "D19") (unit 1) (value "LED") (footprint "")
     )
     (path "/fab53e88-89c0-40b1-9c44-f0dadc28ccb9/4d8e6490-cb02-4a41-b859-6ea86ec1a179"
-      (reference "D20") (unit 1) (value "1N400x") (footprint "Diode_THT:D_A-405_P10.16mm_Horizontal")
+      (reference "D20") (unit 1) (value "1N4001") (footprint "Diode_THT:D_A-405_P10.16mm_Horizontal")
     )
     (path "/fab53e88-89c0-40b1-9c44-f0dadc28ccb9/cd5aeaa5-bc88-402d-9ad2-21184d4c06a0"
       (reference "D21") (unit 1) (value "+5V") (footprint "LED_THT:LED_D5.0mm")
     )
     (path "/fab53e88-89c0-40b1-9c44-f0dadc28ccb9/a351032a-7a4e-4f9c-b618-68b2ada6556e"
       (reference "D22") (unit 1) (value "+3.3V") (footprint "LED_THT:LED_D5.0mm")
+    )
+    (path "/fab53e88-89c0-40b1-9c44-f0dadc28ccb9/1e5a0915-6a5a-40fb-9a16-4ff4f76a5d7d"
+      (reference "F1") (unit 1) (value "Polyfuse 750mA") (footprint "Varistor:RV_Disc_D7mm_W5.4mm_P5mm")
     )
     (path "/3fdafdb4-8fb2-4faf-beb8-83b0478cdff5/8edaf715-5f86-4a43-a56b-a36092aa17af"
       (reference "H1") (unit 1) (value "MountingHole") (footprint "MountingHole:MountingHole_3.2mm_M3")
@@ -1125,7 +1128,7 @@
       (reference "J32") (unit 1) (value "Conn_01x03") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical")
     )
     (path "/fab53e88-89c0-40b1-9c44-f0dadc28ccb9/d1d6b82f-d413-4020-a4d1-e737d99f4b24"
-      (reference "L1") (unit 1) (value "L") (footprint "Inductor_THT:L_Axial_L12.0mm_D5.0mm_P15.24mm_Horizontal_Fastron_MISC")
+      (reference "L1") (unit 1) (value "3,3mH") (footprint "Inductor_THT:L_Axial_L12.0mm_D5.0mm_P15.24mm_Horizontal_Fastron_MISC")
     )
     (path "/3fdafdb4-8fb2-4faf-beb8-83b0478cdff5/e797b41f-9826-472e-af49-3a8d1cd7098a"
       (reference "Q1") (unit 1) (value "2N3904") (footprint "Package_TO_SOT_THT:TO-92_Inline")
@@ -1209,10 +1212,10 @@
       (reference "R22") (unit 1) (value "330k") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
     )
     (path "/fab53e88-89c0-40b1-9c44-f0dadc28ccb9/1c993ac2-b3a8-4e24-9a35-74ae7fafe9a3"
-      (reference "R23") (unit 1) (value "R") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
+      (reference "R23") (unit 1) (value "680") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
     )
     (path "/fab53e88-89c0-40b1-9c44-f0dadc28ccb9/d9f1a364-f29b-4e87-bd36-5904b74264ea"
-      (reference "R24") (unit 1) (value "R") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
+      (reference "R24") (unit 1) (value "220") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
     )
     (path "/84edcc0d-58f3-4926-bbd5-9d9520a90734/2b35632c-b8b2-4fba-8fc1-5127f843232f"
       (reference "RN1") (unit 1) (value "Resistor Array") (footprint "Package_DIP:DIP-16_W7.62mm_Socket_LongPads")
@@ -1306,6 +1309,24 @@
     )
     (path "/1c7b6ba1-9bc1-4836-88a5-b185a760b165/16d8b0b2-d6ea-4680-9d81-3ff5513967ac"
       (reference "TP20") (unit 1) (value "Potenziometer") (footprint "MountingHole:MountingHole_6.5mm_Pad_Via")
+    )
+    (path "/1c7b6ba1-9bc1-4836-88a5-b185a760b165/d1eebfc3-7ce1-4319-b9dd-23a7c4435e36"
+      (reference "TP21") (unit 1) (value "Alimentaore Variabile") (footprint "Symbol:Alimentatore Variabile")
+    )
+    (path "/1c7b6ba1-9bc1-4836-88a5-b185a760b165/19e76994-cc01-458f-b6bf-f0d2b88d5ac1"
+      (reference "TP22") (unit 1) (value "Alimentatore +3,3V") (footprint "Symbol:Alimentatore Variabile")
+    )
+    (path "/1c7b6ba1-9bc1-4836-88a5-b185a760b165/405859d2-617e-4798-bbbf-cded32613e6e"
+      (reference "TP23") (unit 1) (value "Alimentatore +5V") (footprint "Symbol:Alimentatore Variabile")
+    )
+    (path "/1c7b6ba1-9bc1-4836-88a5-b185a760b165/327f1bd2-9ff4-43eb-98ac-6482e38c047e"
+      (reference "TP24") (unit 1) (value "Ingresso Alimentazione (7,5-15V)") (footprint "Symbol:Alimentatore Variabile")
+    )
+    (path "/1c7b6ba1-9bc1-4836-88a5-b185a760b165/15fd8ee9-baf5-4f9b-b4a8-000bdad8688b"
+      (reference "TP25") (unit 1) (value "8 x Switch") (footprint "Symbol:Alimentatore Variabile")
+    )
+    (path "/1c7b6ba1-9bc1-4836-88a5-b185a760b165/5b5c0bee-2e5b-44c3-849a-93d7f561f8b3"
+      (reference "TP26") (unit 1) (value "8 x LED") (footprint "Symbol:Alimentatore Variabile")
     )
     (path "/fab53e88-89c0-40b1-9c44-f0dadc28ccb9/c5a00fd2-4cd0-429e-9a6d-bd151e0d6d4f"
       (reference "U1") (unit 1) (value "LM317_TO-220") (footprint "Package_TO_SOT_THT:TO-220-3_Horizontal_TabDown")
