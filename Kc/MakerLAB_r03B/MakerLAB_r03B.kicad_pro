@@ -390,8 +390,7 @@
           "Net-(D1-Pad2)",
           "Net-(D1-Pad3)",
           "Net-(F1-Pad1)",
-          "Net-(J4-Pad2)",
-          "VCC"
+          "Net-(J4-Pad2)"
         ],
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
@@ -495,10 +494,6 @@
     [
       "4655614b-d320-4698-a75c-caa6a671ceee",
       "MPU_socket"
-    ],
-    [
-      "4925d918-ca4e-4474-8491-4f76b2744881",
-      "Tastiera4x4"
     ],
     [
       "1c7b6ba1-9bc1-4836-88a5-b185a760b165",
