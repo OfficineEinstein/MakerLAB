@@ -408,7 +408,7 @@
     (property "Reference" "TP30" (id 0) (at 144.78 112.2679 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "2x7Segment" (id 1) (at 144.78 114.8079 0)
+    (property "Value" "Pulse Generator" (id 1) (at 144.78 114.8079 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "SerigrafieMakerLAB:Clock NE555" (id 2) (at 147.32 116.84 0)

@@ -507,6 +507,18 @@
     [
       "936db2ac-1acd-4015-81fa-2968def21830",
       "OLED 128x64"
+    ],
+    [
+      "2e13182b-77d9-4e81-a15f-ca823b99bb6c",
+      "IR Sensor"
+    ],
+    [
+      "79ad9125-782d-43b3-829f-b6bbdd2a310f",
+      "Photoresistor"
+    ],
+    [
+      "90cb1aeb-5b36-4bf9-b4a8-315430d66e7b",
+      "BT to Serial"
     ]
   ],
   "text_variables": {}
