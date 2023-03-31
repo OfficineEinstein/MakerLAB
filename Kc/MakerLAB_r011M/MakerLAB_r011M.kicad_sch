@@ -970,6 +970,9 @@
     (path "/fab53e88-89c0-40b1-9c44-f0dadc28ccb9/af8d4770-7935-44ea-a5ef-f24385a7cbee"
       (reference "D5") (unit 1) (value "1n4001") (footprint "Diode_THT:D_A-405_P10.16mm_Horizontal")
     )
+    (path "/90cb1aeb-5b36-4bf9-b4a8-315430d66e7b/61ad31fa-8f25-4c21-9344-1af6cbdaca04"
+      (reference "D6") (unit 1) (value "1n4148") (footprint "Diode_THT:D_A-405_P10.16mm_Horizontal")
+    )
     (path "/84edcc0d-58f3-4926-bbd5-9d9520a90734/01f3f89b-14d8-4e79-8e31-70c0b46ceb23"
       (reference "D7") (unit 1) (value "7") (footprint "LED_THT:LED_D5.0mm")
     )
@@ -1017,6 +1020,21 @@
     )
     (path "/fab53e88-89c0-40b1-9c44-f0dadc28ccb9/a351032a-7a4e-4f9c-b618-68b2ada6556e"
       (reference "D22") (unit 1) (value "+3.3V") (footprint "LED_THT:LED_D5.0mm")
+    )
+    (path "/90cb1aeb-5b36-4bf9-b4a8-315430d66e7b/597906db-caf3-45b3-a11f-fb884400f1e8"
+      (reference "D23") (unit 1) (value "1n4148") (footprint "Diode_THT:D_A-405_P10.16mm_Horizontal")
+    )
+    (path "/90cb1aeb-5b36-4bf9-b4a8-315430d66e7b/b23f9cdb-3b01-4967-bde7-bea4bb57abcd"
+      (reference "D24") (unit 1) (value "1n4148") (footprint "Diode_THT:D_A-405_P10.16mm_Horizontal")
+    )
+    (path "/90cb1aeb-5b36-4bf9-b4a8-315430d66e7b/dcf5519e-c214-447a-8737-feccbc0e5465"
+      (reference "D25") (unit 1) (value "1n4148") (footprint "Diode_THT:D_A-405_P10.16mm_Horizontal")
+    )
+    (path "/90cb1aeb-5b36-4bf9-b4a8-315430d66e7b/90def6a3-c7ed-40d9-8dce-bc77ae3e8382"
+      (reference "D26") (unit 1) (value "1n4148") (footprint "Diode_THT:D_A-405_P10.16mm_Horizontal")
+    )
+    (path "/90cb1aeb-5b36-4bf9-b4a8-315430d66e7b/5c6682b6-76ab-473c-a090-638ec542f740"
+      (reference "D27") (unit 1) (value "1n4148") (footprint "Diode_THT:D_A-405_P10.16mm_Horizontal")
     )
     (path "/fab53e88-89c0-40b1-9c44-f0dadc28ccb9/1e5a0915-6a5a-40fb-9a16-4ff4f76a5d7d"
       (reference "F1") (unit 1) (value "Polyfuse 750mA") (footprint "Varistor:RV_Disc_D7mm_W5.4mm_P5mm")
@@ -1123,12 +1141,6 @@
     (path "/2e13182b-77d9-4e81-a15f-ca823b99bb6c/00cec69a-d9a9-4880-9b5f-ed6f47a9aa15"
       (reference "Q6") (unit 1) (value "H21A1") (footprint "Sensor:H21A1")
     )
-    (path "/90cb1aeb-5b36-4bf9-b4a8-315430d66e7b/da790d20-ce76-4cfd-9308-035a6137ba9d"
-      (reference "Q7") (unit 1) (value "BS170") (footprint "Package_TO_SOT_THT:TO-92_Inline")
-    )
-    (path "/90cb1aeb-5b36-4bf9-b4a8-315430d66e7b/55858b2b-66de-4d5d-be6e-3343f06a58a7"
-      (reference "Q8") (unit 1) (value "BS170") (footprint "Package_TO_SOT_THT:TO-92_Inline")
-    )
     (path "/fab53e88-89c0-40b1-9c44-f0dadc28ccb9/6ff181c9-b25a-46e0-b627-21bc1b1eacea"
       (reference "R1") (unit 1) (value "3,3k") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
     )
@@ -1222,17 +1234,11 @@
     (path "/79ad9125-782d-43b3-829f-b6bbdd2a310f/aefaed44-0140-4a91-b146-29f3c702ad59"
       (reference "R31") (unit 1) (value "Mono") (footprint "OptoDevice:R_LDR_5.0x4.1mm_P3mm_Vertical")
     )
-    (path "/90cb1aeb-5b36-4bf9-b4a8-315430d66e7b/79a48acc-fb44-46e7-b271-abb0364453f7"
-      (reference "R32") (unit 1) (value "10K") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
+    (path "/90cb1aeb-5b36-4bf9-b4a8-315430d66e7b/bd821e5e-db37-455d-8632-d6e55829a82b"
+      (reference "R32") (unit 1) (value "1K") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
     )
     (path "/90cb1aeb-5b36-4bf9-b4a8-315430d66e7b/1f98c5a0-2e56-43d6-8b69-f9c2410939cc"
-      (reference "R33") (unit 1) (value "10K") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
-    )
-    (path "/90cb1aeb-5b36-4bf9-b4a8-315430d66e7b/de32f8f0-1f02-4767-811a-8c3bc1c98432"
-      (reference "R34") (unit 1) (value "10K") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
-    )
-    (path "/90cb1aeb-5b36-4bf9-b4a8-315430d66e7b/6be526bc-9414-4603-8af9-07e0cd5001e5"
-      (reference "R35") (unit 1) (value "10K") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
+      (reference "R33") (unit 1) (value "1K") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
     )
     (path "/84edcc0d-58f3-4926-bbd5-9d9520a90734/2b35632c-b8b2-4fba-8fc1-5127f843232f"
       (reference "RN1") (unit 1) (value "Resistor Array") (footprint "Package_DIP:DIP-16_W7.62mm_Socket_LongPads")
