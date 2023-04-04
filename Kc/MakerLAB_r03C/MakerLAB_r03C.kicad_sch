@@ -1043,7 +1043,7 @@
       (reference "J9") (unit 1) (value "Conn_02x05_Counter_Clockwise") (footprint "Connector_PinSocket_2.54mm:PinSocket_2x05_P2.54mm_Vertical")
     )
     (path "/3fdafdb4-8fb2-4faf-beb8-83b0478cdff5/8179e716-2007-4569-934a-805d7422df0e"
-      (reference "J11") (unit 1) (value "Conn_02x10_Counter_Clockwise") (footprint "Connector_PinSocket_2.54mm:PinSocket_2x10_P2.54mm_Vertical")
+      (reference "J11") (unit 1) (value "1 2 3 4 5") (footprint "Connector_PinSocket_2.54mm:PinSocket_2x10_P2.54mm_Vertical")
     )
     (path "/3fdafdb4-8fb2-4faf-beb8-83b0478cdff5/302c7ffc-08ad-41fc-8ea5-254935d0de70"
       (reference "J12") (unit 1) (value "Conn_02x05_Counter_Clockwise") (footprint "Connector_PinSocket_2.54mm:PinSocket_2x05_P2.54mm_Vertical")
@@ -1350,6 +1350,18 @@
     )
     (path "/1c7b6ba1-9bc1-4836-88a5-b185a760b165/df6c0773-6376-4e47-b98b-9de65ed6dc0a"
       (reference "TP30") (unit 1) (value "Pulse Generator") (footprint "SerigrafieMakerLAB:Clock NE555")
+    )
+    (path "/1c7b6ba1-9bc1-4836-88a5-b185a760b165/f37b68be-0130-48b5-9af1-f987656059f1"
+      (reference "TP31") (unit 1) (value "Pulse Generator") (footprint "SerigrafieMakerLab:Disp4x7Seg")
+    )
+    (path "/1c7b6ba1-9bc1-4836-88a5-b185a760b165/a6b3b502-a36a-487c-8a4c-14d0707ad542"
+      (reference "TP32") (unit 1) (value "Pulse Generator") (footprint "SerigrafieMakerLab:Disp4x7Seg")
+    )
+    (path "/1c7b6ba1-9bc1-4836-88a5-b185a760b165/5cd1d0ea-2ed4-4886-be75-abebc410cf9d"
+      (reference "TP34") (unit 1) (value "Pulse Generator") (footprint "SerigrafieMakerLab:Disp4x7Seg")
+    )
+    (path "/1c7b6ba1-9bc1-4836-88a5-b185a760b165/5b81509f-2e30-492b-bf80-a8d996cfa116"
+      (reference "TP35") (unit 1) (value "Pulse Generator") (footprint "SerigrafieMakerLab:Disp4x7Seg")
     )
     (path "/fab53e88-89c0-40b1-9c44-f0dadc28ccb9/c5a00fd2-4cd0-429e-9a6d-bd151e0d6d4f"
       (reference "U1") (unit 1) (value "LM317_TO-220") (footprint "Package_TO_SOT_THT:TO-220-3_Horizontal_TabDown")

@@ -1548,10 +1548,10 @@
   )
 
   (symbol (lib_id "Connector_Generic:Conn_02x10_Odd_Even") (at 80.01 41.91 0) (mirror y) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom yes) (on_board yes)
     (uuid 8179e716-2007-4569-934a-805d7422df0e)
     (property "Reference" "J11" (id 0) (at 78.74 25.4 0))
-    (property "Value" "Conn_02x10_Counter_Clockwise" (id 1) (at 78.74 27.94 0))
+    (property "Value" "1 2 3 4 5" (id 1) (at 78.74 27.94 0))
     (property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_2x10_P2.54mm_Vertical" (id 2) (at 80.01 41.91 0)
       (effects (font (size 1.27 1.27)) hide)
     )
