@@ -601,7 +601,7 @@
     )
     (pin "+5V" input (at 83.82 39.37 180)
       (effects (font (size 1.27 1.27)) (justify left))
-      (uuid b9bb31be-0486-463c-aade-358c6c0fb4cd)
+      (uuid 22ba5f67-915a-4f65-8124-da06d90cfbc8)
     )
   )
 
@@ -775,14 +775,8 @@
     (path "/fab53e88-89c0-40b1-9c44-f0dadc28ccb9/120cbcac-5739-470e-aac7-6d284bfaedaa"
       (reference "#PWR02") (unit 1) (value "GND") (footprint "")
     )
-    (path "/3fdafdb4-8fb2-4faf-beb8-83b0478cdff5/02ed7423-c3d9-49be-8e1e-327aba76b89c"
-      (reference "#PWR06") (unit 1) (value "+5V") (footprint "")
-    )
     (path "/3fdafdb4-8fb2-4faf-beb8-83b0478cdff5/546dc6be-4de0-44a0-861e-522e0d1842fe"
       (reference "#PWR07") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/3fdafdb4-8fb2-4faf-beb8-83b0478cdff5/18de75ef-684e-4fe9-bdf6-a0c4f274c9c3"
-      (reference "#PWR08") (unit 1) (value "+5V") (footprint "")
     )
     (path "/3fdafdb4-8fb2-4faf-beb8-83b0478cdff5/4d15821b-588c-4274-bf59-4fbfc117fd4d"
       (reference "#PWR09") (unit 1) (value "GND") (footprint "")

@@ -1,4 +1,4 @@
-20905267272185074
+20952904418231511
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -320,13 +320,6 @@ Panasonic CR-3032/VCN battery, https://industrial.panasonic.com/cdbs/www-data/pd
 battery CR-3032 coin cell vertical
 0
 2
-2
-Breadboard
-BreadBoard 81x146
-Bread Board 81*148
-Breadboard
-0
-55
 2
 Button_Switch_Keyboard
 SW_Cherry_MX_1.00u_PCB
@@ -1582,12 +1575,54 @@ rotary switch bcd
 6
 5
 Button_Switch_THT
+PushDevDouble
+
+
+0
+6
+6
+Button_Switch_THT
 Push_E-Switch_KS01Q01
 E-Switch KS01Q01 http://spec_sheets.e-switch.com/specs/29-KS01Q01.pdf
 Push Button
 0
 4
 4
+Button_Switch_THT
+RotaryEncoder_Alps_EC11E_Vertical_H20mm
+Alps rotary encoder, EC12E... without switch (pins are dummy), vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
+rotary encoder
+0
+7
+4
+Button_Switch_THT
+RotaryEncoder_Alps_EC11E_Vertical_H20mm_CircularMountingHoles
+Alps rotary encoder, EC12E... without switch (pins are dummy), vertical shaft, mounting holes with circular drills, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
+rotary encoder
+0
+7
+4
+Button_Switch_THT
+RotaryEncoder_Alps_EC12E-Switch_Vertical_H20mm_CircularMountingHoles
+Alps rotary encoder, EC12E... with switch, vertical shaft, mounting holes with circular drills, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC12E/EC12E1240405.html & http://cdn-reichelt.de/documents/datenblatt/F100/402097STEC12E08.PDF
+rotary encoder
+0
+7
+6
+Button_Switch_THT
+RotaryEncoder_Alps_EC12E_Vertical_H20mm
+Alps rotary encoder, EC12E..., vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC12E/EC12E1240405.html
+rotary encoder
+0
+5
+4
+Button_Switch_THT
+SW_100SP1T2B4M7QE
+
+
+0
+5
+5
 Button_Switch_THT
 SW_CW_GPTS203211B
 SPST Off-On Pushbutton, 1A, 30V, CW Industries P/N GPTS203211B, http://switches-connectors-custom.cwind.com/Asset/GPTS203211BR2.pdf
@@ -2253,6 +2288,13 @@ SW PUSH SMALL Tactile C&K
 0
 4
 2
+Button_Switch_THT
+Switch 6mm
+
+
+0
+0
+0
 Buzzer_Beeper
 Buzzer_12x9.5RM7.6
 Generic Buzzer, D12mm height 9.5mm with RM7.6mm
@@ -5893,6 +5935,27 @@ CP Radial series Radial pin pitch 5.00mm diameter 19mm supercapacitor
 0
 2
 2
+Capacitor_THT
+GXC15104
+GXC15104-2
+Variable Resistor
+0
+2
+2
+Capacitor_THT
+GZC10100
+GZC10100-2
+Capacitor
+0
+3
+3
+Capacitor_THT
+GZN20100
+GZN20100-1
+Variable Resistor
+0
+3
+3
 Capacitor_Tantalum_SMD
 CP_EIA-1608-08_AVX-J
 Tantalum Capacitor SMD AVX-J (1608-08 Metric), IPC_7351 nominal, (Body size from: https://www.vishay.com/docs/48064/_t58_vmn_pt0471_1601.pdf), generated with kicad-footprint-generator
@@ -8077,6 +8140,13 @@ connector barrel jack
 0
 3
 3
+Connector_Card
+CF-Card_3M_N7E50-7516PK-20-WF
+Compact Flash Card connector (https://multimedia.3m.com/mws/media/22365O/3mtm-cf-card-header-compactflashtm-type-i-sm-ts0662.pdf)
+connector cf
+0
+54
+50
 Connector_Card
 CF-Card_3M_N7E50-A516xx-30
 Compact Flash Card connector, polarization inverse (https://multimedia.3m.com/mws/media/22424O/3mtm-cf-card-header-type-i-low-profile-surface-mount-ts0747.pdf)
@@ -48685,6 +48755,13 @@ connector Wuerth WR-WTB vertical
 10
 10
 Converter_ACDC
+CONV_HLK-5M05
+
+
+0
+4
+4
+Converter_ACDC
 Converter_ACDC_CUI_PBO-3-Sxx_THT_Vertical
 ACDC-Converter, 3W, CUI PBO-3, THT https://www.cui.com/product/resource/pbo-3.pdf
 Converter AC-DC THT Vertical
@@ -48700,6 +48777,13 @@ Hahn ACDC-Converter THT
 4
 Converter_ACDC
 Converter_ACDC_HiLink_HLK-PMxx
+ACDC-Converter, 3W, HiLink, HLK-PMxx, THT, http://www.hlktech.net/product_detail.php?ProId=54
+ACDC-Converter 3W THT HiLink board mount module
+0
+4
+4
+Converter_ACDC
+Converter_ACDC_HiLink_HLK-PMxx5W
 ACDC-Converter, 3W, HiLink, HLK-PMxx, THT, http://www.hlktech.net/product_detail.php?ProId=54
 ACDC-Converter 3W THT HiLink board mount module
 0
@@ -50764,13 +50848,6 @@ MicroMELF Diode
 2
 2
 Diode_SMD
-D_MicroSMP
-Diode MicroSMP (DO-219AD), https://www.vishay.com/docs/89020/mss1p3l.pdf
-Diode MicroSMP (DO-219AD)
-0
-2
-2
-Diode_SMD
 D_MicroSMP_AK
 Diode MicroSMP (DO-219AD), large-pad cathode, https://www.vishay.com/docs/89020/mss1p3l.pdf
 Diode MicroSMP (DO-219AD)
@@ -51007,6 +51084,20 @@ https://www.onsemi.com/pub/Collateral/ESD9B-D.PDF#page=4
 Diode SOD923
 0
 2
+2
+Diode_SMD
+D_SOT-23_ANK
+SOT-23, Single Diode
+SOT-23
+0
+3
+2
+Diode_SMD
+D_SOT-23_NKA
+SOT-23, Single Diode
+SOT-23
+0
+3
 2
 Diode_SMD
 D_TUMD2
@@ -52129,12 +52220,26 @@ display oled
 30
 30
 Display
+Osram Pictiva 288x048
+
+
+0
+20
+20
+Display
 RC1602A
 http://www.raystar-optronics.com/down.php?ProID=18
 LCD 16x2 Alphanumeric 16pin
 0
 22
 18
+Display
+TFT OLED 1.3 I2C
+
+
+0
+8
+4
 Display
 WC1602A
 LCD 16x2 http://www.wincomlcd.com/pdf/WC1602A-SFYLYHTC06.pdf
@@ -53521,13 +53626,6 @@ Fuse Fuseholder TR5 Littelfuse/Wickmann No. 460 No560
 0
 2
 2
-GithLink
-github_MagneticLoopAntenna
-
-
-0
-0
-0
 Heatsink
 Heatsink_35x26mm_1xFixation3mm_Fischer-SK486-35
 Heatsink, 35mm x 26mm, 1x Fixation 3mm, Fischer SK486-35
@@ -53571,19 +53669,26 @@ heatsink
 1
 1
 Heatsink
-Heatsink_AAVID_590302B03600G
-Heatsink, 25.4x25.4x42.54mm, TO-220, https://www.boydcorp.com/aavid-datasheets/Board-Level-Cooling-Channel-5903.pdf
-heatsink
-0
-2
-2
-Heatsink
 Heatsink_AAVID_TV5G_TO220_Horizontal
 Heatsink TV5G TO-220 Horizontal, https://www.shopaavid.com/Product/TV-5G
 Heatsink TV5G TO-220 Horizontal 
 0
 0
 0
+Heatsink
+Heatsink_Aavid-TV5G_TO220_Horizontal
+Heatsink TV5G TO-220 Horizontal, https://www.shopaavid.com/Product/TV-5G
+Heatsink TV5G TO-220 Horizontal 
+0
+0
+0
+Heatsink
+Heatsink_Aavid_590302B03600G
+Heatsink, 25.4x25.4x42.54mm, TO-220, https://www.boydcorp.com/aavid-datasheets/Board-Level-Cooling-Channel-5903.pdf
+heatsink
+0
+2
+2
 Heatsink
 Heatsink_Fischer_FK224xx2201_25x8.3mm
 25x8.3mm Heatsink, 18K/W, TO-220, https://www.fischerelektronik.de/web_fischer/en_GB/$catalogue/fischerData/PR/FK224_220_1_/datasheet.xhtml?branch=heatsinks
@@ -53637,20 +53742,6 @@ Heatsink
 Heatsink_Stonecold_HS-132_32x14mm_2xFixation1.5mm
 Heatsink, StoneCold HS
 heatsink
-0
-2
-1
-Heatsink2
-Heatsink_28x25_Horiz
-
-
-0
-1
-1
-Heatsink2
-Heatsink_35x30_2Screew
-
-
 0
 2
 1
@@ -56840,6 +56931,27 @@ SELF
 10
 4
 Inductor_THT
+L_Toroid_4Pin_Vertical_L14.7mm_W8.6mm_P5.58mm_Pulse_KM-1
+L_Toroid, Vertical series, Radial, pin pitch=5.58mm, , length*width=14.73*8.64mm^2, Pulse, KM-1, http://datasheet.octopart.com/PE-92112KNL-Pulse-datasheet-17853305.pdf
+L_Toroid Vertical series Radial pin pitch 5.58mm  length 14.73mm width 8.64mm Pulse KM-1
+0
+4
+4
+Inductor_THT
+L_Toroid_4Pin_Vertical_L22.4mm_W10.2mm_P7.90mm_Vishay_TJ4
+L_Toroid, Vertical series, Radial, pin pitch=7.90mm, , length*width=22.4*10.2mm^2, Vishay, TJ4, http://www.vishay.com/docs/34079/tj.pdf
+L_Toroid Vertical series Radial pin pitch 7.90mm  length 22.4mm width 10.2mm Vishay TJ4
+0
+4
+4
+Inductor_THT
+L_Toroid_4Pin_Vertical_L41.9mm_W19.1mm_P15.80mm_Vishay_TJ7
+L_Toroid, Vertical series, Radial, pin pitch=15.80mm, , length*width=41.9*19.1mm^2, Vishay, TJ7, http://www.vishay.com/docs/34079/tj.pdf
+L_Toroid Vertical series Radial pin pitch 15.80mm  length 41.9mm width 19.1mm Vishay TJ7
+0
+4
+4
+Inductor_THT
 L_Toroid_Horizontal_D3.2mm_P6.40mm_Diameter3-5mm_Amidon-T12
 L_Toroid, Horizontal series, Radial, pin pitch=6.40mm, , diameter=3.175mm, Diameter3-5mm, Amidon-T12
 L_Toroid Horizontal series Radial pin pitch 6.40mm  diameter 3.175mm Diameter3-5mm Amidon-T12
@@ -58792,6 +58904,13 @@ ESP8266 WiFi microcontroller
 0
 16
 16
+Module
+XCVR_HC-05
+
+
+0
+34
+34
 MountingEquipment
 DINRailAdapter_3xM3_PhoenixContact_1201578
 https://www.phoenixcontact.com/online/portal/us?uri=pxc-oc-itemdetail:pid=1201578&library=usen&tab=1
@@ -58799,6 +58918,13 @@ DIN rail adapter universal three M3 clearance holes
 0
 0
 0
+MountingHole
+Asola
+
+
+0
+1
+1
 MountingHole
 MountingHole_2.1mm
 Mounting Hole 2.1mm, no annular
@@ -59961,6 +60087,13 @@ mounting hole 8.4mm m8
 0
 9
 1
+MountingHole
+TenonePerAsola
+
+
+0
+1
+1
 Mounting_Wuerth
 Mounting_Wuerth_WA-SMSE-ExternalM3_H5mm_9771050360
 Mounting Hardware, external M3, height 5, Wuerth electronics 9771050360 (https://katalog.we-online.com/em/datasheet/9771050360.pdf), generated with kicad-footprint-generator
@@ -61103,6 +61236,13 @@ Mounting 4.5mm 9774100982
 8
 1
 NetTie
+GND Key
+
+
+0
+1
+1
+NetTie
 NetTie-2_SMD_Pad0.5mm
 Net tie, 2 pin, 0.5mm square SMD pads
 net tie
@@ -61579,6 +61719,13 @@ PhotoDiode plastic SMD DIL
 6
 2
 OptoDevice
+Osram_SMD-DIL2_4.5x4.0mm
+PhotoDiode, plastic SMD DIL, 4.5x4mm²
+PhotoDiode plastic SMD DIL
+0
+2
+2
+OptoDevice
 Osram_SMD-SmartDIL
 PhotoDiode, plastic SMD SmatDIL
 PhotoDiode plastic SMD SmatDIL
@@ -61683,6 +61830,13 @@ Resistor LDR
 0
 2
 2
+OptoDevice
+Rotary Encoder Optical
+
+
+0
+7
+6
 OptoDevice
 ST_VL53L0X
 https://www.st.com/resource/en/datasheet/vl53l1x.pdf
@@ -72289,6 +72443,34 @@ SOP SO
 24
 24
 Package_SO
+SOP50P490X110-10N
+TS5A23159DGSR-1
+Integrated Circuit
+0
+10
+10
+Package_SO
+SOP65P640X120-14N
+PW (R-PDSO-G14)
+Integrated Circuit
+0
+14
+14
+Package_SO
+SOP65P640X120-16N
+SOP65P640X120-16N
+Integrated Circuit
+0
+16
+16
+Package_SO
+SOT65P280X145-8N
+DCN (R-PDSO-G8)
+Integrated Circuit
+0
+8
+8
+Package_SO
 SSO-4_6.7x5.1mm_P2.54mm_Clearance8mm
 4-Lead Plastic Stretched Small Outline (SSO/Stretched SO), see https://www.vishay.com/docs/84299/vor1142b4.pdf
 SSO Stretched SO SOIC 2.54
@@ -74223,6 +74405,20 @@ SOT-143R Reverse
 Package_TO_SOT_SMD
 SOT-143R_Handsoldering
 SOT-143R, reverse pinning, Handsoldering, https://www.nxp.com/docs/en/package-information/SOT143R.pdf
+SOT-143 Reverse Handsoldering
+0
+4
+4
+Package_TO_SOT_SMD
+SOT-143R_Reverse
+SOT-143R Reverse
+SOT-143R Reverse
+0
+4
+4
+Package_TO_SOT_SMD
+SOT-143R_Reverse_Handsoldering
+SOT-143R Reverse Handsoldering
 SOT-143 Reverse Handsoldering
 0
 4
@@ -77385,6 +77581,13 @@ Potentiometer vertical Vishay T73YP
 3
 3
 RF
+High Power RF Resistor 001
+
+
+0
+3
+2
+RF
 Skyworks_SKY13575_639LF
 http://www.skyworksinc.com/uploads/documents/SKY13575_639LF_203270D.pdf
 Skyworks
@@ -77875,7 +78078,7 @@ Bluetooth Module
 30
 30
 RF_Module
-BM78SPPS5xC2
+BM78SPPS5XC2
 Bluetooth Dual-mode module with integral chip antenna (http://ww1.microchip.com/downloads/en/DeviceDoc/60001380C.pdf)
 Bluetooth BR/EDR BLE
 0
@@ -78007,20 +78210,6 @@ RF SoC Radio ANT Bluetooth BLE D52 nRF52 Garmin Canada Dynastream Nordic
 0
 35
 35
-RF_Module
-HC-05 MODULE (ZC142200)
-
-
-0
-6
-6
-RF_Module
-HC-05 Module Horizontal (ZC14200)
-
-
-0
-6
-6
 RF_Module
 HOPERF_RFM9XW_SMD
 Low Power Long Range Transceiver Module SMD-16 (https://www.hoperf.com/data/upload/portal/20181127/5bfcbea20e9ef.pdf)
@@ -80268,13 +80457,6 @@ Resistor Radial_Power series Radial pin pitch 7.37mm 10W length 16.1mm width 9mm
 0
 2
 2
-RotarySwitch
-Commutatore 2x6
-
-
-0
-9
-8
 Rotary_Encoder
 RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm
 Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
@@ -80394,13 +80576,6 @@ DFN Sensor optical IR
 0
 8
 8
-Sensor
-H21A1
-
-
-0
-6
-6
 Sensor
 LuminOX_LOX-O2
 SST LuminOX Luminescence-based O2 sensor, https://sstsensing.com/wp-content/uploads/2021/08/DS0030rev15_LuminOx.pdf
@@ -80821,27 +80996,6 @@ LEM Hall Effect Voltage transducer
 0
 5
 5
-SerigrafieMakerLab
-Clock NE555
-
-
-0
-0
-0
-SerigrafieMakerLab
-Disp4x7Seg
-
-
-0
-0
-0
-SerigrafieMakerLab
-MakerLABTitoli
-
-
-0
-0
-0
 Socket
 3M_Textool_240-1288-00-0602J_2x20_P2.54mm
 3M 40-pin zero insertion force socket, though-hole, row spacing 25.4 mm (1000 mils)
@@ -80941,12 +81095,33 @@ THT DIP DIL ZIF 15.24mm 600mil Socket
 42
 42
 Socket
+SOIC127P1420X350-21N
+PG-DSO-20-37, -65
+Integrated Circuit
+0
+40
+20
+Socket
 Wells_648-0482211SA01
 https://www.farnell.com/cad/316865.pdf?_ga=2.37208032.177107060.1530611323-249019997.1498114824
 48pin TSOP Socket
 0
 48
 48
+Symbol
+Alimentatore Variabile
+
+
+0
+0
+0
+Symbol
+AlimentatoreDaBancoExATXAtmega328
+
+
+0
+0
+0
 Symbol
 CE-Logo_8.5x6mm_SilkScreen
 CE marking
@@ -81070,6 +81245,20 @@ Symbol
 FCC-Logo_48.3x40mm_SilkScreen
 FCC marking
 Logo FCC certification
+0
+0
+0
+Symbol
+GitMagneticLoop
+
+
+0
+0
+0
+Symbol
+GitMagneticLoop-Small
+
+
 0
 0
 0
@@ -81606,6 +81795,13 @@ Logo Polarity Center Positive
 0
 0
 Symbol
+PowerSupplyFromATXPowerUnit
+
+
+0
+0
+0
+Symbol
 RoHS-Logo_6mm_SilkScreen
 Restriction of Hazardous Substances Directive Logo
 Logo RoHS
@@ -81644,6 +81840,13 @@ Symbol
 RoHS-Logo_40mm_SilkScreen
 Restriction of Hazardous Substances Directive Logo
 Logo RoHS
+0
+0
+0
+Symbol
+Servo-ARM
+
+
 0
 0
 0
@@ -81726,6 +81929,13 @@ Symbol, CC-Share Alike, Copper Top, Big,
 0
 Symbol
 Symbol_CC-ShareAlike_CopperTop_Small
+Symbol, CC-Share Alike, Copper Top, Small,
+Symbol, CC-Share Alike, Copper Top, Small,
+0
+0
+0
+Symbol
+Symbol_CC-ShareAlike_SilkscreenTop_Small
 Symbol, CC-Share Alike, Copper Top, Small,
 Symbol, CC-Share Alike, Copper Top, Small,
 0
@@ -87541,10 +87751,3 @@ varistor
 0
 2
 2
-VoltmeterModule
-3,5 Digit 0,28'' Voltmeter
-
-
-0
-7
-3
