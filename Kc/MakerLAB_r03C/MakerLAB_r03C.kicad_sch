@@ -826,6 +826,9 @@
     (path "/3c0235f3-a875-43f2-8c96-ee177e52f2ff"
       (reference "#PWR0102") (unit 1) (value "GND") (footprint "")
     )
+    (path "/3fdafdb4-8fb2-4faf-beb8-83b0478cdff5/d3f03034-c815-4a20-9fa4-1120a229bb76"
+      (reference "#PWR0103") (unit 1) (value "GND") (footprint "")
+    )
     (path "/fab53e88-89c0-40b1-9c44-f0dadc28ccb9/62ceb93c-830f-4eb1-b95b-352eecb7b91a"
       (reference "#PWR0105") (unit 1) (value "GND") (footprint "")
     )
@@ -1027,6 +1030,9 @@
     (path "/2dd14e0b-8c92-43d6-93ff-e1a127912732/ddcb7fdb-ffb1-411f-a9fd-d26649d773ec"
       (reference "J2") (unit 1) (value "Conn_02x05_Counter_Clockwise") (footprint "Connector_PinSocket_2.54mm:PinSocket_2x05_P2.54mm_Vertical")
     )
+    (path "/62ab733d-ee67-4f7c-8a1e-1b8f9ec01131/4bd5063b-7125-4f36-8660-4b5f36917335"
+      (reference "J3") (unit 1) (value "Conn_02x10_Counter_Clockwise") (footprint "Connector_PinSocket_2.54mm:PinSocket_2x10_P2.54mm_Vertical")
+    )
     (path "/fab53e88-89c0-40b1-9c44-f0dadc28ccb9/44c16635-736c-409e-ad27-5b2c46e2aaf9"
       (reference "J4") (unit 1) (value "Barrel_Jack_MountingPin") (footprint "Connector_BarrelJack:BarrelJack_Horizontal")
     )
@@ -1053,9 +1059,6 @@
     )
     (path "/11d392bf-6f7c-4f76-9021-88dba8defdad/e78e66ed-762d-4dc3-a576-ae3e7ede6914"
       (reference "J16") (unit 1) (value "Conn_02x05_Counter_Clockwise") (footprint "Connector_PinSocket_2.54mm:PinSocket_2x05_P2.54mm_Vertical")
-    )
-    (path "/62ab733d-ee67-4f7c-8a1e-1b8f9ec01131/125c520f-829d-4060-aa61-162ec36a827a"
-      (reference "J17") (unit 1) (value "Conn_02x10_Counter_Clockwise") (footprint "Connector_PinHeader_2.54mm:PinHeader_2x10_P2.54mm_Vertical")
     )
     (path "/7b083e6b-8037-4945-a6a7-d033f55692d8/480f6634-10a8-486d-b605-422938b348e7"
       (reference "J19") (unit 1) (value "Conn_01x10_Female") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x10_P2.54mm_Vertical")
