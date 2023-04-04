@@ -1043,7 +1043,7 @@
       (reference "J9") (unit 1) (value "D C B A  LE") (footprint "Connector_PinSocket_2.54mm:PinSocket_2x05_P2.54mm_Vertical")
     )
     (path "/3fdafdb4-8fb2-4faf-beb8-83b0478cdff5/8179e716-2007-4569-934a-805d7422df0e"
-      (reference "J11") (unit 1) (value "Gnd Dp a  b  c  d e  f  g  ") (footprint "Connector_PinSocket_2.54mm:PinSocket_2x10_P2.54mm_Vertical")
+      (reference "J11") (unit 1) (value "Gnd Dp a  b  c  d   e   f   g  ") (footprint "Connector_PinSocket_2.54mm:PinSocket_2x10_P2.54mm_Vertical")
     )
     (path "/3fdafdb4-8fb2-4faf-beb8-83b0478cdff5/302c7ffc-08ad-41fc-8ea5-254935d0de70"
       (reference "J12") (unit 1) (value "Conn_02x05_Counter_Clockwise") (footprint "Connector_PinSocket_2.54mm:PinSocket_2x05_P2.54mm_Vertical")
