@@ -1316,7 +1316,7 @@
     (in_bom yes) (on_board yes)
     (uuid e78e66ed-762d-4dc3-a576-ae3e7ede6914)
     (property "Reference" "J16" (id 0) (at 185.42 48.26 0))
-    (property "Value" "Conn_02x05_Counter_Clockwise" (id 1) (at 186.69 50.8 0))
+    (property "Value" "GND  P3   P4" (id 1) (at 186.69 50.8 0))
     (property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_2x05_P2.54mm_Vertical" (id 2) (at 184.15 62.23 0)
       (effects (font (size 1.27 1.27)) hide)
     )

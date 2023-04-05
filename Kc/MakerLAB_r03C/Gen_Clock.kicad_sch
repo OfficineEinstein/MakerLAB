@@ -1556,7 +1556,7 @@
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 4bd5063b-7125-4f36-8660-4b5f36917335)
     (property "Reference" "J3" (id 0) (at 177.8 33.02 0))
-    (property "Value" "Conn_02x10_Counter_Clockwise" (id 1) (at 177.8 35.56 0))
+    (property "Value" "GND   CLOCK     +5V" (id 1) (at 177.8 35.56 0))
     (property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_2x10_P2.54mm_Vertical" (id 2) (at 179.07 49.53 0)
       (effects (font (size 1.27 1.27)) hide)
     )

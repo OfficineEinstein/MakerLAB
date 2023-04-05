@@ -1376,7 +1376,7 @@
     (in_bom yes) (on_board yes)
     (uuid ddcb7fdb-ffb1-411f-a9fd-d26649d773ec)
     (property "Reference" "J2" (id 0) (at 175.26 50.8 0))
-    (property "Value" "Conn_02x05_Counter_Clockwise" (id 1) (at 176.53 53.34 0))
+    (property "Value" "Gnd  FP6  FP7" (id 1) (at 176.53 53.34 0))
     (property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_2x05_P2.54mm_Vertical" (id 2) (at 173.99 64.77 0)
       (effects (font (size 1.27 1.27)) hide)
     )

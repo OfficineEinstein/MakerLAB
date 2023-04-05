@@ -1028,10 +1028,10 @@
       (reference "J1") (unit 1) (value "Fix-Mod") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical")
     )
     (path "/2dd14e0b-8c92-43d6-93ff-e1a127912732/ddcb7fdb-ffb1-411f-a9fd-d26649d773ec"
-      (reference "J2") (unit 1) (value "Conn_02x05_Counter_Clockwise") (footprint "Connector_PinSocket_2.54mm:PinSocket_2x05_P2.54mm_Vertical")
+      (reference "J2") (unit 1) (value "Gnd  FP6  FP7") (footprint "Connector_PinSocket_2.54mm:PinSocket_2x05_P2.54mm_Vertical")
     )
     (path "/62ab733d-ee67-4f7c-8a1e-1b8f9ec01131/4bd5063b-7125-4f36-8660-4b5f36917335"
-      (reference "J3") (unit 1) (value "Conn_02x10_Counter_Clockwise") (footprint "Connector_PinSocket_2.54mm:PinSocket_2x10_P2.54mm_Vertical")
+      (reference "J3") (unit 1) (value "GND   CLOCK     +5V") (footprint "Connector_PinSocket_2.54mm:PinSocket_2x10_P2.54mm_Vertical")
     )
     (path "/fab53e88-89c0-40b1-9c44-f0dadc28ccb9/44c16635-736c-409e-ad27-5b2c46e2aaf9"
       (reference "J4") (unit 1) (value "Barrel_Jack_MountingPin") (footprint "Connector_BarrelJack:BarrelJack_Horizontal")
@@ -1040,7 +1040,7 @@
       (reference "J5") (unit 1) (value "Conn_01x02_Male") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x02_P2.54mm_Vertical")
     )
     (path "/3fdafdb4-8fb2-4faf-beb8-83b0478cdff5/4ea9247c-e430-45a0-ba69-a860f784337d"
-      (reference "J9") (unit 1) (value "D C B A  LE") (footprint "Connector_PinSocket_2.54mm:PinSocket_2x05_P2.54mm_Vertical")
+      (reference "J9") (unit 1) (value "A B C D LE") (footprint "Connector_PinSocket_2.54mm:PinSocket_2x05_P2.54mm_Vertical")
     )
     (path "/3fdafdb4-8fb2-4faf-beb8-83b0478cdff5/8179e716-2007-4569-934a-805d7422df0e"
       (reference "J11") (unit 1) (value "Gnd Dp a  b  c  d   e   f   g  ") (footprint "Connector_PinSocket_2.54mm:PinSocket_2x10_P2.54mm_Vertical")
@@ -1058,13 +1058,13 @@
       (reference "J15") (unit 1) (value "GND 0  1  2  3  4  5  6  7 +5V") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x10_P2.54mm_Vertical")
     )
     (path "/11d392bf-6f7c-4f76-9021-88dba8defdad/e78e66ed-762d-4dc3-a576-ae3e7ede6914"
-      (reference "J16") (unit 1) (value "Conn_02x05_Counter_Clockwise") (footprint "Connector_PinSocket_2.54mm:PinSocket_2x05_P2.54mm_Vertical")
+      (reference "J16") (unit 1) (value "GND  P3   P4") (footprint "Connector_PinSocket_2.54mm:PinSocket_2x05_P2.54mm_Vertical")
     )
     (path "/7b083e6b-8037-4945-a6a7-d033f55692d8/480f6634-10a8-486d-b605-422938b348e7"
-      (reference "J19") (unit 1) (value "Conn_01x10_Female") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x10_P2.54mm_Vertical")
+      (reference "J19") (unit 1) (value "LE A0 A1 A2 A3 A0 A1 A2 A3 LE") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x10_P2.54mm_Vertical")
     )
     (path "/936db2ac-1acd-4015-81fa-2968def21830/b0aa2193-5bdd-4e15-8d70-5a6071e29b46"
-      (reference "J21") (unit 1) (value "Conn_01x03") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical")
+      (reference "J21") (unit 1) (value "Gnd SCL SDA") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical")
     )
     (path "/4655614b-d320-4698-a75c-caa6a671ceee/30d53521-c628-42bd-96b5-44e68b7948c2"
       (reference "J22") (unit 1) (value "Conn_02x20_Counter_Clockwise") (footprint "Connector_PinSocket_2.54mm:PinSocket_2x20_P2.54mm_Vertical")

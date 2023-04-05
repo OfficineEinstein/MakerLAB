@@ -1012,7 +1012,7 @@
     (in_bom yes) (on_board yes)
     (uuid 480f6634-10a8-486d-b605-422938b348e7)
     (property "Reference" "J19" (id 0) (at 40.64 63.5 90))
-    (property "Value" "Conn_01x10_Female" (id 1) (at 43.18 64.77 90))
+    (property "Value" "LE A0 A1 A2 A3 A0 A1 A2 A3 LE" (id 1) (at 43.18 64.77 90))
     (property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x10_P2.54mm_Vertical" (id 2) (at 45.72 66.04 0)
       (effects (font (size 1.27 1.27)) hide)
     )
