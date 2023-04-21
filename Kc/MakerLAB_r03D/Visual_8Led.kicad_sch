@@ -1597,7 +1597,7 @@
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 2b35632c-b8b2-4fba-8fc1-5127f843232f)
     (property "Reference" "RN1" (id 0) (at 156.21 81.28 90))
-    (property "Value" "Resistor Array" (id 1) (at 156.21 83.82 90))
+    (property "Value" "330" (id 1) (at 156.21 83.82 90))
     (property "Footprint" "Package_DIP:DIP-16_W7.62mm_Socket_LongPads" (id 2) (at 156.21 109.855 90)
       (effects (font (size 1.27 1.27)) hide)
     )

@@ -1229,7 +1229,7 @@
       (reference "R35") (unit 1) (value "10K") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
     )
     (path "/84edcc0d-58f3-4926-bbd5-9d9520a90734/2b35632c-b8b2-4fba-8fc1-5127f843232f"
-      (reference "RN1") (unit 1) (value "Resistor Array") (footprint "Package_DIP:DIP-16_W7.62mm_Socket_LongPads")
+      (reference "RN1") (unit 1) (value "330") (footprint "Package_DIP:DIP-16_W7.62mm_Socket_LongPads")
     )
     (path "/8d96e817-211c-41cf-9613-3e46384349b0/bcac138f-b1ff-4d36-8f2a-876a9dbd4f29"
       (reference "RN2") (unit 1) (value "10K") (footprint "Package_DIP:DIP-16_W7.62mm_Socket_LongPads")
