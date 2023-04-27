@@ -1363,6 +1363,9 @@
     (path "/1c7b6ba1-9bc1-4836-88a5-b185a760b165/5b81509f-2e30-492b-bf80-a8d996cfa116"
       (reference "TP35") (unit 1) (value "Pulse Generator") (footprint "SerigrafieMakerLab:Disp4x7Seg")
     )
+    (path "/1c7b6ba1-9bc1-4836-88a5-b185a760b165/656dbcd0-caf5-47e6-ae91-620faa5d22f8"
+      (reference "TP?") (unit 1) (value "Logo") (footprint "Logo Einstein:Einstein Logo")
+    )
     (path "/fab53e88-89c0-40b1-9c44-f0dadc28ccb9/c5a00fd2-4cd0-429e-9a6d-bd151e0d6d4f"
       (reference "U1") (unit 1) (value "LM317_TO-220") (footprint "Package_TO_SOT_THT:TO-220-3_Horizontal_TabDown")
     )
