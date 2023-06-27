@@ -5,3 +5,4 @@ Demo board didattica per i laboratori di Tecnologie e Progettazione di Sistemi E
 
 Il laboratorio portatile finalmente operativo
 ![This is an image](https://github.com/OfficineEinstein/MakerLAB/blob/main/MakerLAB_800.jpg)
+https://youtu.be/5uMLk8OzwR4
