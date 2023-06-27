@@ -3,4 +3,5 @@ Demo board didattica per i laboratori di Tecnologie e Progettazione di Sistemi E
  
 ![This is an image](https://github.com/OfficineEinstein/MakerLAB/blob/main/MakerLAB_r03D-1.jpg)
 
+Il laboratorio portatile finalmente operativo
 ![This is an image](https://github.com/OfficineEinstein/MakerLAB/blob/main/MakerLAB_800.jpg)
